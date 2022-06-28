@@ -9,14 +9,20 @@ class Solution(object):
         cnt = 0
         while True:
             cnt += 1
-            l.append(head)
+            l.append(head.val)
             if head.next == None:
                 break
             else:
                 head = head.next
-
-
-        return l[len(l)//2]
+        temp = l[cnt//2:]
+        answer = ListNode(temp[0])
+        head = answer
+        cursor = answer.next
+        for i in range(1,len(temp)):
+            newNode = ListNode(temp[i])
+            answer.next = newNode
+            answer = answer.next
+        return head
                 
 
         
