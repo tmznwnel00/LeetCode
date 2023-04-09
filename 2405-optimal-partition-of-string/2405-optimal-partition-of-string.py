@@ -3,7 +3,6 @@ class Solution:
         temp = ""
         answer = 0
         for letter in s:
-            print(temp, letter)
             if letter not in temp:
                 temp += letter
             else:
