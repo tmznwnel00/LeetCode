@@ -19,7 +19,6 @@ class Solution:
                     end = min_val
                 start = num
         if end == min_val:
-            
             answer.append(f'{start}')    
         else:
             answer.append(f'{start}->{end}')
