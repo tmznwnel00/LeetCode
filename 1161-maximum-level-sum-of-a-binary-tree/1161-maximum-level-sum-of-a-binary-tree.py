@@ -8,17 +8,17 @@ class Solution:
     def maxLevelSum(self, root: Optional[TreeNode]) -> int:
         sum_list = []
         
-        def bfs(node, depth):
+        def dfs(node, depth):
             if depth > len(sum_list):
                 sum_list.append(node.val)
             else:
                 sum_list[depth - 1] += node.val
             if node.left:
-                bfs(node.left, depth+1)
+                dfs(node.left, depth+1)
             if node.right:
-                bfs(node.right, depth+1)
+                dfs(node.right, depth+1)
            
-        bfs(root, 1)
+        dfs(root, 1)
         
         return sum_list.index(max(sum_list)) + 1
             
