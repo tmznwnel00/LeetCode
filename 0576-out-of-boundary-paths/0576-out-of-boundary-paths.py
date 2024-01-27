@@ -8,7 +8,6 @@ class Solution:
                 return 1
             if i < 0 or j < 0 or i >= m or j >= n:
                 return 0
-            # print(i,j,step)
             if matrix[i][j][step] != -1:
                 return matrix[i][j][step]
             if step <= 0:
@@ -16,7 +15,6 @@ class Solution:
             result = dp(i-1, j, step-1) + dp(i+1, j, step-1) + dp(i, j-1, step-1) + dp(i, j+1, step-1)
             matrix[i][j][step] = result
             return result
-            # return dp(i-1, j, step-1) + dp(i+1, j, step-1) + dp(i, j-1, step-1) + dp(i, j+1, step-1)
         
         answer = 0
         visited = set([])
