@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/tmznwnel00/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/tmznwnel00/LeetCode/tree/master/0342-power-of-four) |
+| [1448-maximum-69-number](https://github.com/tmznwnel00/LeetCode/tree/master/1448-maximum-69-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/tmznwnel00/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/tmznwnel00/LeetCode/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
