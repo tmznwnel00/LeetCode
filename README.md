@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/tmznwnel00/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tmznwnel00/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2529-range-product-queries-of-powers](https://github.com/tmznwnel00/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/tmznwnel00/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/tmznwnel00/LeetCode/tree/master/0498-diagonal-traverse) |
 | [3790-fruits-into-baskets-ii](https://github.com/tmznwnel00/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/tmznwnel00/LeetCode/tree/master/0498-diagonal-traverse) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/tmznwnel00/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Dynamic Programming
 |  |
