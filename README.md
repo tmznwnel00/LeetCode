@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/tmznwnel00/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tmznwnel00/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/tmznwnel00/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2529-range-product-queries-of-powers](https://github.com/tmznwnel00/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/tmznwnel00/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/tmznwnel00/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/tmznwnel00/LeetCode/tree/master/1448-maximum-69-number) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/tmznwnel00/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Matrix
 |  |
 | ------- |
@@ -65,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tmznwnel00/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Two Pointers
+|  |
+| ------- |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/tmznwnel00/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+## Sorting
+|  |
+| ------- |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/tmznwnel00/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
