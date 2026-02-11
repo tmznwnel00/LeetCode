@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/tmznwnel00/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/tmznwnel00/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tmznwnel00/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/tmznwnel00/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2529-range-product-queries-of-powers](https://github.com/tmznwnel00/LeetCode/tree/master/2529-range-product-queries-of-powers) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/tmznwnel00/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3790-fruits-into-baskets-ii](https://github.com/tmznwnel00/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
