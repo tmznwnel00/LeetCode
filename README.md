@@ -74,9 +74,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/tmznwnel00/LeetCode/tree/master/0165-compare-version-numbers) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/tmznwnel00/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
 | ------- |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/tmznwnel00/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+## String
+|  |
+| ------- |
+| [0165-compare-version-numbers](https://github.com/tmznwnel00/LeetCode/tree/master/0165-compare-version-numbers) |
 <!---LeetCode Topics End-->
