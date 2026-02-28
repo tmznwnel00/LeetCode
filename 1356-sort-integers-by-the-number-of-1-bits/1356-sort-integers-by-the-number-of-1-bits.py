@@ -1,13 +1,14 @@
-from collections import Counter, defaultdict
+from collections import defaultdict
 class Solution:
     def sortByBits(self, arr: List[int]) -> List[int]:
         d = defaultdict(list)
-        for a in arr:
-            d[Counter(bin(a))['1']].append(a)
+        for i in arr:
+            d[bin(i)[2:].count('1')].append(i)
+    
+        answer = []
         
-        result = []
+        for value in [sorted(v) for k, v in sorted(d.items())]:
+            answer += value
+        return answer
+
         
-        for i in sorted(d.keys()):
-            result.extend(sorted(d[i]))
-            
-        return result
