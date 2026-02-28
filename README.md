@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/tmznwnel00/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/tmznwnel00/LeetCode/tree/master/0342-power-of-four) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/tmznwnel00/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2529-range-product-queries-of-powers](https://github.com/tmznwnel00/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/tmznwnel00/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tmznwnel00/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/tmznwnel00/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tmznwnel00/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/tmznwnel00/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2529-range-product-queries-of-powers](https://github.com/tmznwnel00/LeetCode/tree/master/2529-range-product-queries-of-powers) |
@@ -79,9 +81,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/tmznwnel00/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/tmznwnel00/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## String
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/tmznwnel00/LeetCode/tree/master/0165-compare-version-numbers) |
+## Counting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/tmznwnel00/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
