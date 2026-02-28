@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/tmznwnel00/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/tmznwnel00/LeetCode/tree/master/0342-power-of-four) |
 | [1448-maximum-69-number](https://github.com/tmznwnel00/LeetCode/tree/master/1448-maximum-69-number) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/tmznwnel00/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/tmznwnel00/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/tmznwnel00/LeetCode/tree/master/0342-power-of-four) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/tmznwnel00/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/tmznwnel00/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2529-range-product-queries-of-powers](https://github.com/tmznwnel00/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/tmznwnel00/LeetCode/tree/master/0498-diagonal-traverse) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/tmznwnel00/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3379-transformed-array](https://github.com/tmznwnel00/LeetCode/tree/master/3379-transformed-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/tmznwnel00/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
